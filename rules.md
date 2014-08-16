@@ -12,92 +12,92 @@ long as the general code quality is maintained.
      
 ##General Style Rules 
 
-  ###Protocol
+###Protocol
 
-  ##General Formatting Rules
+###General Formatting Rules
 
-  ###Indentation
+###Indentation
 
-  ###Capitalization
+###Capitalization
 
-  ###Trailing Whitespace
+###Trailing Whitespace
 
 ##General Meta Rules
   
-  ###Encoding
+###Encoding
 
-  ###Comments
+###Comments
 
-  ###Action Items
+###Action Items
 
 ##HTML Style Rules
 
-  ###Document Type
+###Document Type
 
-  ###HTML Validity
+###HTML Validity
 
-  ###Semantics
+###Semantics
 
-  ###Multimedia Fallback
+###Multimedia Fallback
 
-  ###Separation of Concerns
+###Separation of Concerns
 
-  ###Entity References
+###Entity References
 
-  ###Optional Tags
+###Optional Tags
 
-  ###Type Attributes
+###Type Attributes
 
 ##HTML Formatting Rules
 
-  ###General Formatting
+###General Formatting
 
-  ###HTML Quotation Marks
+###HTML Quotation Marks
 
 ##CSS Style RUles
   
-  ###CSS Validity
+###CSS Validity
 
-  ###ID and Class Naming
+###ID and Class Naming
 
-  ###ID and Class Name Style
+###ID and Class Name Style
 
-  ###Type Selectors
+###Type Selectors
 
-  ###Shorthand Properties
+###Shorthand Properties
 
-  ###0 and Units
+###0 and Units
 
-  ###Leading 0s
+###Leading 0s
 
-  ###Hexadecimal Notation
+###Hexadecimal Notation
 
-  ###Prefixes
+###Prefixes
 
-  ###ID and Class Name Delimeters
+###ID and Class Name Delimeters
 
-  ###Hacks
+###Hacks
 
 ##CSS Formatting Rules
 
-  ###Declaration Order
+###Declaration Order
 
-  ###Block Content Identation
+###Block Content Identation
 
-  ###Declaration Stops
+###Declaration Stops
 
-  ###Property Name Stops
+###Property Name Stops
 
-  ###Declaration Block Separation
+###Declaration Block Separation
 
-  ###Selector and Declaration Separation
+###Selector and Declaration Separation
 
-  ###Rule Separation
+###Rule Separation
 
-  ###CSS Quotation Marks
+###CSS Quotation Marks
 
 ##CSS Meta RUles
   
-  ###Section Comments
+###Section Comments
 
 
